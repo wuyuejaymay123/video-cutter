@@ -1,0 +1,6 @@
+interface:
+  display_name: "自选风格口播剪辑"
+  short_description: "上传口播后自选风格，规划解释动效、动态人像布局与素材协作，输出剪辑预览"
+  default_prompt: "使用 $talking-head-edit 处理我上传的口播视频，先确定风格，再按内容设计解释动效与动态布局；缺失动画和录屏留位，先交低清预览。"
+policy:
+  allow_implicit_invocation: true
